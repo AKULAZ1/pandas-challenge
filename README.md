@@ -1,1 +1,3 @@
 # pandas-challenge
+## The function ".index.name = ", which is used in Cell 19, was sourced from w3docs.com. It can be found [here](https://www.w3docs.com/snippets/python/pandas-index-column-title-or-name.html)
+## The parameter "inplace = True", which is included in the .rename() functions in both Cells 22 and 23 in the PyCitySchools_Mine file, was sourced from SaturnCloud to modify the existing DataFrame, rather than a copy. It can be found [here](https://saturncloud.io/blog/renaming-the-column-names-of-pandas-dataframe-is-not-working-as-expected-python/#:~:text=The%20most%20common%20reason%20why,using%20the%20rename()%20method.)
